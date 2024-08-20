@@ -1,0 +1,1 @@
+export const colorBgSiderStyle: string = "background: linear-gradient(180deg, rgba(0, 0, 0, 0.02) 0%, rgba(0, 0, 0, 0.09) 100%), linear-gradient(180deg, #202A40 0%, rgba(32, 42, 64, 0.64) 100%), linear-gradient(180deg, #1890FF 0%, rgba(24, 144, 255, 0.64) 0.01%);box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);"
